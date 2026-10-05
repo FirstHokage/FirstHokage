@@ -1,6 +1,6 @@
 # Hellooo there 👋, I'm FirstHokage
 
-Welcome to my GitHub profile. I'm a developer interested in building useful tools and software.
+Welcome Lads. I make useful tools and software.
 
 ### 🚀 Featured Project
 * **[MarketPulse-py](https://github.com/FirstHokage/MarketPulse-py)** — A real-time command-line tracker for cryptocurrencies, metals, and stocks.
